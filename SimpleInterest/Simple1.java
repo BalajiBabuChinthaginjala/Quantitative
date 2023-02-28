@@ -142,8 +142,8 @@ public class Simple1 {
 		return rate;	
 	}
 	static double rate(double time) {
-		double rate=100/time;
-		return rate;
+		double rate1=100/time;
+		return rate1;
 		
 		
 	}
